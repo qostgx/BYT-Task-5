@@ -41,10 +41,3 @@ MessagePublisher
 
 MobileSubscriber
 
-How to Run
-
-Open the project in any C# IDE or .NET environment.
-
-Build and run the solution.
-
-Program execution starts in Program.cs.
